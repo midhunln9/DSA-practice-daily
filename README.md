@@ -1,2 +1,2 @@
 # DSA-practice-daily
-Practicing leet code style problems afor interview
+Leet code practice daily - DSA Interview prep
